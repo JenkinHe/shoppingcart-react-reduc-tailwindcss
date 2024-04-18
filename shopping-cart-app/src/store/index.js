@@ -1,7 +1,7 @@
 
 
 import {configureStore} from '@reduxjs/toolkit'
-import cartReducer from './slcies/cart-slice'
+import cartReducer from './slices/card-slice'
 
 
 
